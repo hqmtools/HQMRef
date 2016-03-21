@@ -1,0 +1,8 @@
+c:\Projects\HQMRef\HQMRef\bin\Debug\HQMRef.exe.config
+c:\Projects\HQMRef\HQMRef\bin\Debug\HQMRef.exe
+c:\Projects\HQMRef\HQMRef\bin\Debug\HQMRef.pdb
+c:\Projects\HQMRef\HQMRef\bin\Debug\HockeyEditor.dll
+c:\Projects\HQMRef\HQMRef\bin\Debug\HockeyEditor.pdb
+c:\Projects\HQMRef\HQMRef\obj\Debug\HQMRef.csprojResolveAssemblyReference.cache
+c:\Projects\HQMRef\HQMRef\obj\Debug\HQMRef.exe
+c:\Projects\HQMRef\HQMRef\obj\Debug\HQMRef.pdb
