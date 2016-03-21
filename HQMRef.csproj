@@ -32,8 +32,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="HockeyEditor">
-      <HintPath>..\..\..\Users\sam.haliburton\Documents\GitHub\HockeyEditor\HockeyEditor\bin\Debug\HockeyEditor.dll</HintPath>
+    <Reference Include="HockeyEditor, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\HockeyEditor.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
