@@ -30,7 +30,7 @@ namespace HQMRef
                 {
                     if (p.Team == HQMTeam.Red && p.Position.Z < BLUETEAM_BLUELINE_Z)
                     {
-                        GameInfo.SendChatMessage("OFFSIDE WARNING - RED!");
+                        GameInfo.SendChatMessage("OFFSIDE WARNING - RED - "+p.Name);
                         m_OffsideState = EOffsideState.Red;
                     }
                 }
@@ -43,7 +43,7 @@ namespace HQMRef
                 {
                     if (p.Team == HQMTeam.Blue && p.Position.Z > REDTEAM_BLUELINE_Z)
                     {
-                        GameInfo.SendChatMessage("OFFSIDE WARNING - BLUE!");
+                        GameInfo.SendChatMessage("OFFSIDE WARNING - BLUE - "+p.Name);
                         m_OffsideState = EOffsideState.Blue;
                     }
                 }
